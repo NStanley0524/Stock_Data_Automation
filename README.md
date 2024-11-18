@@ -23,11 +23,14 @@ ALL YOU HAVE TO DO IS INPUT YOUR STOCK TICKER AND QTCH AS YOUR REPORT IS GENERAT
    ```bash
    git clone https://github.com/yourusername/Stock-Data-Automation.git
 
-2. cd Stock-Data-Automation
+2. ```bash
+   cd Stock-Data-Automation
 
-3. pip install -r requirements.txt
+3. ```bash
+   pip install -r requirements.txt
 
-4. python stock_data_script.py
+4. ```bash
+   python stock_data_script.py
 
 
 
