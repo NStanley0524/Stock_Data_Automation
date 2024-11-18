@@ -65,7 +65,7 @@ The project  is divided into modular scripts for readability and ease of maintai
 - **Column_chart.py** : Generates a column chart for visualizing stock charts
 
 - **Bar_chart.py** : Creates a bar chart for visualizing P/E ratios
-- 
+  
 
 
 ### How To Run The Automation
@@ -77,9 +77,9 @@ The project  is divided into modular scripts for readability and ease of maintai
 python Stock_Ticker.py
 ```
 
-2. Ensure that Data_cleaning.py cleans and preprocesses the data before creating visualizations
+2. **Ensure that Data_cleaning.py cleans and preprocesses the data before creating visualizations**
 
-3. Use Column_chart.py and Bar_chart.py to automate visualizations
+3. **Use Column_chart.py and Bar_chart.py to automate visualizations**
 
 
 ## Example Output
