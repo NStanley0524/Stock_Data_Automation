@@ -1,10 +1,12 @@
 # Stock_Data_Automation
 
+
 This project automates the extraction, formatting, and visualization of stock data from Yahoo Finance for further data analysis using Python. The tool gathers real-time data for selected stocks, performs basic data transformation and cleaning, and generates visualizations in an Excel report. 
 
 *All you have to do is input your stock ticker and watch as your stock data report is automatically geenrated!!*
 
 ## Features
+
 
 - Extracts live stock data from Yahoo Finance using web scraping.
 - Converts data into user-friendly formats in an Excel report.
@@ -14,6 +16,7 @@ This project automates the extraction, formatting, and visualization of stock da
 
 ## Prerequisites
 
+
 - Python 3.x
 - Libraries required: **openpyxl**, **pandas**, **requests**, **BeautifulSoup4**.
 
@@ -22,15 +25,19 @@ This project automates the extraction, formatting, and visualization of stock da
 pip install -r requirements.txt
 ```
 
+
 ## Installation
 
+
 1. **Clone the repository:**
+
 
    ```bash
    git clone https://github.com/yourusername/Stock-Data-Automation.git
    ```
 
-2. **Navigate to the project directory**
+3. **Navigate to the project directory**
+
 
 ```bash
 cd Stock-Data-Automation
@@ -38,12 +45,14 @@ cd Stock-Data-Automation
 
 3. **Install the required Python package**
 
+
 ```bash
 pip install -r requirements.txt
 ```
 
 
 ## Project Structure
+
 
 The project  is divided into modular scripts for readability and ease of maintainance, each serving its different purpose:
 
@@ -56,9 +65,11 @@ The project  is divided into modular scripts for readability and ease of maintai
 - **Column_chart.py** : Generates a column chart for visualizing stock charts
 
 - **Bar_chart.py** : Creates a bar chart for visualizing P/E ratios
+- 
 
 
 ### How To Run The Automation
+
 
 1. **Start with inputing the ticker to scrape**
 
@@ -80,7 +91,7 @@ https://github.com/NStanley0524/Stock_Data_Automation_Python/blob/main/Images/Sc
 
 Your Bar chart should also look like this:
 
-https://github.com/NStanley0524/Stock_Data_Automation_Python/blob/main/Images/Screenshot%202024-11-18%20182232.png
+[https://github.com/NStanley0524/Stock_Data_Automation_Python/blob/main/Images/Screenshot%202024-11-18%20182232.png](https://github.com/NStanley0524/Stock_Data_Automation_Python/blob/main/Images/Bar_chart.png)
 
 The stock data report should look this way:
 
