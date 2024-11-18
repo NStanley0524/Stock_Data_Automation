@@ -96,3 +96,16 @@ Your Bar chart should also look like this:
 The stock data report should look this way:
 
 https://github.com/NStanley0524/Stock_Data_Automation_Python/blob/main/Images/Stock_data_report_output.png
+
+
+
+## Future Enhancements
+
+1. Add more financial metrics and visualizations
+
+2. Support multiple data sources ( e.g. Trading view, Finviz )
+
+
+## License
+
+This project is licensed under the MIT license. See the [LICENSE]() file for more details
