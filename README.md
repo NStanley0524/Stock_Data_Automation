@@ -86,12 +86,12 @@ python Stock_Ticker.py
 
 Your Column chart should look like this:
 
-https://github.com/NStanley0524/Stock_Data_Automation_Python/blob/main/Images/Screenshot%202024-11-18%20182255.png
+Images/Column_chart.png
 
 
 Your Bar chart should also look like this:
 
-[https://github.com/NStanley0524/Stock_Data_Automation_Python/blob/main/Images/Screenshot%202024-11-18%20182232.png](https://github.com/NStanley0524/Stock_Data_Automation_Python/blob/main/Images/Bar_chart.png)
+(https://github.com/NStanley0524/Stock_Data_Automation_Python/blob/main/Images/Bar_chart.png)
 
 The stock data report should look this way:
 
