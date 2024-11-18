@@ -80,3 +80,8 @@ python Stock_Ticker.py
 
 Your Column chart should look like this:
 
+https://github.com/NStanley0524/Stock_Data_Automation_Python/blob/main/Images/Screenshot%202024-11-18%20182255.png
+
+
+Your Bar chart should also look like this:
+
