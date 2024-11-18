@@ -42,30 +42,25 @@ cd Stock-Data-Automation
 pip install -r requirements.txt
 ```
 
-5. **Run the script to generate the Excel report**
-
-```bash
-python Data_cleaning.py
-````
 
 ## Project Structure
 
 The project  is divided into modular scripts for readability and ease of maintainance, each serving its different purpose:
 
-**Stock_Ticker.py** : Where your stock data to be scraped are inputed
+- **Stock_Ticker.py** : Where your stock data to be scraped are inputed
 
-**script.py** : Where your stock data is scraped from Yahoo Finance
+- **script.py** : Where your stock data is scraped from Yahoo Finance
 
-**Data_cleaning.py** : Hnadles the cleaning and preprocessing of the stock data
+- **Data_cleaning.py** : Hnadles the cleaning and preprocessing of the stock data
 
-**Column_chart.py** : Generates a column chart for visualizing stock charts
+- **Column_chart.py** : Generates a column chart for visualizing stock charts
 
-**Bar_chart.py** : Creates a bar chart for visualizing P/E ratios
+- **Bar_chart.py** : Creates a bar chart for visualizing P/E ratios
 
 
 ### How To Run The Automation
 
-1. **Start with inputing the ticker to scrape
+1. **Start with inputing the ticker to scrape**
 
 ```bash
 python Stock_Ticker.py
@@ -87,3 +82,6 @@ Your Bar chart should also look like this:
 
 https://github.com/NStanley0524/Stock_Data_Automation_Python/blob/main/Images/Screenshot%202024-11-18%20182232.png
 
+The stock data report should look this way:
+
+https://github.com/NStanley0524/Stock_Data_Automation_Python/blob/main/Images/Stock_data_report_output.png
