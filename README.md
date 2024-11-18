@@ -108,4 +108,4 @@ https://github.com/NStanley0524/Stock_Data_Automation_Python/blob/main/Images/St
 
 ## License
 
-This project is licensed under the MIT license. See the [LICENSE]() file for more details
+This project is licensed under the MIT license. See the [LICENSE](LICENSE) file for more details
