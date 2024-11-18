@@ -109,9 +109,15 @@ The project  is divided into modular scripts for readability and ease of maintai
 python Stock_Ticker.py
 ```
 
-2. **Ensure that Data_cleaning.py cleans and preprocesses the data before creating visualizations**
+2. **Run the script.py**
 
-3. **Use Column_chart.py and Bar_chart.py to automate visualizations**
+ ```bash
+python script.py
+```
+
+3. **Ensure that Data_cleaning.py cleans and preprocesses the data before creating visualizations**
+
+4. **Use Column_chart.py and Bar_chart.py to automate visualizations**
 
 
 
