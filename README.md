@@ -92,7 +92,7 @@ The project  is divided into modular scripts for readability and ease of maintai
 
 - **script.py** : Where your stock data is scraped from Yahoo Finance
 
-- **Data_cleaning.py** : Hnadles the cleaning and preprocessing of the stock data
+- **Data_cleaning.py** : Handles the cleaning and preprocessing of the stock data
 
 - **Column_chart.py** : Generates a column chart for visualizing stock charts
 
