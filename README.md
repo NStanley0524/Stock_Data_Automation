@@ -85,3 +85,5 @@ https://github.com/NStanley0524/Stock_Data_Automation_Python/blob/main/Images/Sc
 
 Your Bar chart should also look like this:
 
+https://github.com/NStanley0524/Stock_Data_Automation_Python/blob/main/Images/Screenshot%202024-11-18%20182232.png
+
