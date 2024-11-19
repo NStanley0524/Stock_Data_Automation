@@ -65,14 +65,14 @@ pip install -r requirements.txt
 
 
  ```bash
- git clone https://github.com/yourusername/Stock-Data-Automation.git
+ git clone https://github.com/NStanley0524/Stock_Data_Automation.git
  ```
 
 3. **Navigate to the project directory**
 
 
 ```bash
-cd Stock-Data-Automation
+cd Stock_Data_Automation
 ```
 
 3. **Install the required Python package**
