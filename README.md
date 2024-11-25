@@ -72,7 +72,7 @@ pip install -r requirements.txt
 
 
 ```bash
-cd Stock_Data_Automation
+cd Stock_Data_Automation_Python
 ```
 
 3. **Install the required Python package**
